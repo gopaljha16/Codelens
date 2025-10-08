@@ -136,12 +136,8 @@ yarn build
 ## 👨‍💻 Developer
 
 **Gopal Jha** - Full Stack Developer & Algorithm Enthusiast
-
-- 📧 **Email**: [gopaljha16@gmail.com](mailto:gopaljha16@gmail.com)
 - 🐙 **GitHub**: [@gopaljha16](https://github.com/gopaljha16)
 - 💼 **LinkedIn**: [Gopal Jha](https://www.linkedin.com/in/gopal-jha-229a2b243/)
-- 🐦 **Twitter**: [@gopaljha_dev](https://x.com/gopaljha_dev)
-- 📸 **Instagram**: [@gopal_jha_dev](https://www.instagram.com/gopal_jha_dev/)
 
 ## 🤝 Contributing
 
